@@ -1,0 +1,57 @@
+.body {
+    background-color:#2b80ee;
+}
+
+
+
+
+/* Declares the colour and the text of within the jumbotron*/
+.jumbotron{
+    background-color: #2b80ee;
+    color: #ffff;
+    padding: 100px, 25px;
+}
+
+
+.myphoto-section {
+    min-height:500px;
+}
+
+
+.parallax {
+    /*image*/
+    
+
+    /*set specific height*/
+    min-height: 150px;
+
+
+    /*create parallax scrolling effect*/
+    background-attachment: fixed;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+
+#theoParallax {
+    background-image: url("facephoto.jpg");
+}
+
+
+
+
+#meghanParallax{
+    background-image:url("dominic.png");
+
+}
+
+
+#sophieParallax{
+    background-image:url("jumping\ goat\ 2.jpg");
+}
+
+
+
+
+
